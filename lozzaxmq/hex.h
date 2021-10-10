@@ -1,4 +1,4 @@
-// Copyright (c) 2019-2020, The Loki Project
+// Copyright (c) 2019-2020, The Lozzax Project
 //
 // All rights reserved.
 //
@@ -32,7 +32,7 @@
 #include <iterator>
 #include <cassert>
 
-namespace lokimq {
+namespace lozzaxmq {
 
 namespace detail {
 

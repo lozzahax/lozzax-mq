@@ -1,5 +1,5 @@
 #pragma once
-#include "lokimq.h"
+#include "lozzaxmq.h"
 
 // Inside some method:
 //     LMQ_LOG(warn, "bad ", 42, " stuff");
@@ -14,7 +14,7 @@
 #  define LMQ_TRACE(...)
 #endif
 
-namespace lokimq {
+namespace lozzaxmq {
 
 constexpr char SN_ADDR_COMMAND[] = "inproc://sn-command";
 constexpr char SN_ADDR_WORKERS[] = "inproc://sn-workers";

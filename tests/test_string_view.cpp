@@ -1,8 +1,8 @@
 #include <catch2/catch.hpp>
-#include "lokimq/string_view.h"
+#include "lozzaxmq/string_view.h"
 #include <future>
 
-using namespace lokimq;
+using namespace lozzaxmq;
 
 using namespace std::literals;
 

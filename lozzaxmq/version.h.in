@@ -1,0 +1,5 @@
+namespace lozzaxmq {
+constexpr int VERSION_MAJOR = @LOZZMQ_VERSION_MAJOR@;
+constexpr int VERSION_MINOR = @LOZZMQ_VERSION_MINOR@;
+constexpr int VERSION_PATCH = @LOZZMQ_VERSION_PATCH@;
+}
